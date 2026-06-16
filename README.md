@@ -50,6 +50,41 @@ Pin Mapping에서 전진 출력(`Fwd_Pin`)과 후진 출력(`Bwd_Pin`)을 설정
 
 ![실린더 PLC Ladder 프로그램](./KakaoTalk_20260616_144813631.png)
 
+## 하드웨어 구성
+
+PCB 검사, 불량품 배출, 정상품 적재 및 창고 운반에 사용한 전체 하드웨어 구성입니다.
+
+![하드웨어 구성도](./hardware_overview.png)
+
+---
+
+## 불량 PCB 배출 실린더
+
+![전기 실린더](./electric_cylinder.png)
+
+![실린더 불량 PCB 배출 동작](./cylinder_rejection_demo.gif)
+
+---
+
+## PCB 분류 동작
+
+
+![PCB 분류 동작](./pcb_sorting_flow.png)
+
+---
+
+## 팔레트 이송형 컨베이어
+
+
+![팔레트 이송형 컨베이어](./pallet_conveyor.png)
+
+---
+
+## AGV 지게차
+
+![AGV 지게차](./agv_forklift.png)
+
+
 ## 소스 코드
 
 | 파일 | 내용 |
