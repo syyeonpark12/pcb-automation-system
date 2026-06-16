@@ -52,7 +52,6 @@ Pin Mapping에서 전진 출력(`Fwd_Pin`)과 후진 출력(`Bwd_Pin`)을 설정
 
 ## 하드웨어 구성
 
-PCB 검사, 불량품 배출, 정상품 적재 및 창고 운반에 사용한 전체 하드웨어 구성입니다.
 
 ![하드웨어 구성도](./hardware_overview.png)
 
